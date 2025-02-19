@@ -10,11 +10,11 @@ tx - transactionhash
 sample usage<br>
 https://etherscan.github.io/ethvalidate/?tx=0xa2882cca690d1898d7cc13ca9c978c04e83179eb07c0a6aa7f2fba355d50bd52
 <br><br>
-<b>Address</b> <br>
-a - address
+<b>0xde2a668a2a3489072a66b6e4e70bb2eba0520498</b> <br>
+a - address 0xde2a668a2a3489072a66b6e4e70bb2eba0520498
 <br>
   sample usage<br>
-  https://etherscan.github.io/ethvalidate/address?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be
+  https://etherscan.github.io/ethvalidate/address?a=0xde2a668a2a3489072a66b6e4e70bb2eba0520498
 <br><br>
 <b>Token</b><br>
 a - address
